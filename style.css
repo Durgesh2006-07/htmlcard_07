@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 100;
+    border: 1px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.container{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius:5px;
+    margin:auto;
+    margin-left:auto;
+}
+ .chip{
+    margin:10px;
+    background-color:goldenrod;
+    width:fit-content;
+ }
+
+ .img{
+    display: block;
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    
+ }
+
+ .product{
+    margin-top:10px;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+ }
+
+ .spec{
+    margin: 10px;
+    
+    font-size: 15px;
+    font-weight: 100;
+ }
+
+ .cart{
+    margin: auto;
+    height: 55px;
+    width: 100px;
+    font-size: 15px;
+    background-color: antiquewhite;
+ }
+
+ .buy{
+    margin: auto;
+    height: 55px;
+    width: 100px;
+    font-size: 15px;
+    background-color: orangered;
+ }
+
+ .buttons{
+    text-align: center;
+ }
+
+
+
+
+
